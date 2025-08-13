@@ -4,7 +4,7 @@ This repo contains the following files:
 * `host_de_analysis_plus.*.R` - `R` code used to run statistical analyses using count files and generate figures
 * `symbiont_de_analysis_plus.R` - `R` code used to run statistical analyses using count files and generate figures
 
-In `input_files/`:
+In `supporting_files/`:
 * `gene_association.dictybase.filter.gostats.txt` - Processed GO annotation file for _D. discoideum_ genome
 * `b*.gene_association.img_topgo.txt` - Processed GO annotation files, one for each _Paraburkholderia_ symbiont genome
 * `phagocytosis_genes.tsv` - Table of _D. discoideum_ genes with known roles in phagocytosis, with columns in the following order: 
