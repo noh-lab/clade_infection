@@ -5,23 +5,23 @@ This repo contains the following files:
 * `symbiont_de_analysis_plus.R` - `R` code used to run statistical analyses using count files and generate figures
 
 In `supporting_files/`:
-* `gene_association.dictybase.filter.gostats.txt` - Processed GO annotation file for _D. discoideum_ genome
 * `b*.gene_association.img_topgo.txt` - Processed GO annotation files, one for each _Paraburkholderia_ symbiont genome
+* `b*secretion.system.prokka.txt` - Table of symbiont genes with predicted function in bacterial secretion systems
+* `b*eukaryotic.pfam.prokka.txt` - Table of symbiont genes possessing eukaryotic protein domains
+* `gene_association.dictybase.filter.gostats.txt` - Processed GO annotation file for _D. discoideum_ genome
 * `phagocytosis_genes.tsv` - Table of _D. discoideum_ genes with known roles in phagocytosis, with columns in the following order: 
    * gene symbol
    * dictyBase gene id
    * decription of protein coded by gene
-* `b*secretion.system.prokka.txt` - Table of symbiont genes with predicted function in bacterial secretion systems
-* `b*eukaryotic.pfam.prokka.txt` - Table of symbiont genes possessing eukaryotic protein domains
 * `ss_struct_eff_geneviewer.txt` - Table of symbiont bacterial secretion system structural components and predicted effectors in order of genome coordinate
 
 In `DE_results/`:
-* `dicty*.DEresults.txt` - Four `DESeq2` summary tables for hosts associated with each symbiont species or strain
 * `burk*.DEresults.txt` - Four `DESeq2` summary tables for each symbiont species or strain associated with hosts
+* `dicty*.DEresults.txt` - Four `DESeq2` summary tables for hosts associated with each symbiont species or strain
 
 In `GO_results/`:
-* `dicty*.*reg.topGO.txt` - Eight `topGO` summary tables for hosts associated with each symbiont species or strain; tables for up- and down-regulated groups of genes are separated
 * `burk*.*reg.bt2.topGO.txt` - Eight `topGO` summary tables for each symbiont species or strain associated with hosts; tables for up- and down-regulated groups of genes are separated
+* `dicty*.*reg.topGO.txt` - Eight `topGO` summary tables for hosts associated with each symbiont species or strain; tables for up- and down-regulated groups of genes are separated
     
 # Description of data processing and analysis
 ## I. Alignment to counts
