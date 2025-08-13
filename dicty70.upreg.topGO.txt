@@ -1,0 +1,125 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	287	188	60.37	< 1e-30
+2	GO:0006418	tRNA aminoacylation for protein translation	40	30	8.41	3.3e-13
+3	GO:0002181	cytoplasmic translation	47	37	9.89	6.8e-11
+4	GO:1902600	proton transmembrane transport	40	24	8.41	8.5e-08
+5	GO:0001732	formation of cytoplasmic translation initiation complex	15	13	3.16	1.0e-07
+6	GO:0006099	tricarboxylic acid cycle	30	19	6.31	5.9e-07
+7	GO:0015986	proton motive force-driven ATP synthesis	11	10	2.31	1.5e-06
+8	GO:0009083	branched-chain amino acid catabolic process	16	12	3.37	5.5e-06
+9	GO:0009156	ribonucleoside monophosphate biosynthetic process	23	15	4.84	5.6e-06
+10	GO:0000027	ribosomal large subunit assembly	19	13	4	1.1e-05
+11	GO:1990542	mitochondrial transmembrane transport	32	18	6.73	1.3e-05
+12	GO:0006364	rRNA processing	147	69	30.92	1.4e-05
+13	GO:0006457	protein folding	89	40	18.72	2.5e-05
+14	GO:0006413	translational initiation	64	36	13.46	3.7e-05
+15	GO:0032543	mitochondrial translation	27	15	5.68	8.4e-05
+16	GO:0009220	pyrimidine ribonucleotide biosynthetic process	12	9	2.52	9.3e-05
+17	GO:0006414	translational elongation	33	17	6.94	0.00010
+18	GO:0006417	regulation of translation	45	21	9.47	0.00010
+19	GO:0009071	serine family amino acid catabolic process	10	8	2.1	0.00011
+20	GO:0019646	aerobic electron transport chain	25	14	5.26	0.00013
+21	GO:0042742	defense response to bacterium	15	10	3.16	0.00017
+22	GO:0042775	mitochondrial ATP synthesis coupled electron transport	26	14	5.47	0.00023
+23	GO:0000028	ribosomal small subunit assembly	13	9	2.73	0.00024
+24	GO:0006626	protein targeting to mitochondrion	21	12	4.42	0.00031
+25	GO:0009253	peptidoglycan catabolic process	11	8	2.31	0.00033
+26	GO:0000054	ribosomal subunit export from nucleus	14	9	2.94	0.00056
+27	GO:0006096	glycolytic process	20	11	4.21	0.00086
+28	GO:0170035	L-amino acid catabolic process	39	22	8.2	0.00091
+29	GO:0009112	nucleobase metabolic process	23	12	4.84	0.00094
+30	GO:0006084	acetyl-CoA metabolic process	15	9	3.16	0.00113
+31	GO:2001235	positive regulation of apoptotic signaling pathway	10	7	2.1	0.00118
+32	GO:0009130	pyrimidine nucleoside monophosphate biosynthetic process	10	7	2.1	0.00118
+33	GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity	10	7	2.1	0.00118
+34	GO:0042273	ribosomal large subunit biogenesis	55	34	11.57	0.00119
+35	GO:0042254	ribosome biogenesis	210	108	44.17	0.00138
+36	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	27	13	5.68	0.00151
+37	GO:0006536	glutamate metabolic process	13	8	2.73	0.00174
+38	GO:0000097	sulfur amino acid biosynthetic process	13	8	2.73	0.00174
+39	GO:0042255	ribosome assembly	36	26	7.57	0.00184
+40	GO:0009199	ribonucleoside triphosphate metabolic process	42	28	8.83	0.00244
+41	GO:0010952	positive regulation of peptidase activity	11	7	2.31	0.00265
+42	GO:0006563	L-serine metabolic process	11	7	2.31	0.00265
+43	GO:0030490	maturation of SSU-rRNA	41	21	8.62	0.00317
+44	GO:0006606	protein import into nucleus	42	17	8.83	0.00320
+45	GO:0071806	protein transmembrane transport	33	14	6.94	0.00438
+46	GO:0170040	proteinogenic amino acid catabolic process	37	20	7.78	0.00498
+47	GO:1901605	alpha-amino acid metabolic process	119	54	25.03	0.00516
+48	GO:0009070	serine family amino acid biosynthetic process	12	7	2.52	0.00521
+49	GO:0006955	immune response	12	7	2.52	0.00521
+50	GO:0090114	COPII-coated vesicle budding	12	7	2.52	0.00521
+51	GO:0140053	mitochondrial gene expression	34	20	7.15	0.00563
+52	GO:0000470	maturation of LSU-rRNA	20	12	4.21	0.00575
+53	GO:1902652	secondary alcohol metabolic process	15	8	3.16	0.00581
+54	GO:0042026	protein refolding	15	8	3.16	0.00581
+55	GO:0006400	tRNA modification	73	25	15.35	0.00586
+56	GO:0009167	purine ribonucleoside monophosphate metabolic process	18	9	3.79	0.00597
+57	GO:0006119	oxidative phosphorylation	36	20	7.57	0.00788
+58	GO:0043144	sno(s)RNA processing	10	6	2.1	0.00820
+59	GO:0006730	one-carbon metabolic process	10	6	2.1	0.00820
+60	GO:0009064	glutamine family amino acid metabolic process	35	18	7.36	0.00845
+61	GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	19	9	4	0.00926
+62	GO:0006458	'de novo' protein folding	13	7	2.73	0.00926
+63	GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	7	2.73	0.00926
+64	GO:0072522	purine-containing compound biosynthetic process	65	29	13.67	0.01037
+65	GO:0009201	ribonucleoside triphosphate biosynthetic process	19	15	4	0.01253
+66	GO:0000460	maturation of 5.8S rRNA	27	14	5.68	0.01266
+67	GO:0022900	electron transport chain	56	26	11.78	0.01309
+68	GO:0001522	pseudouridine synthesis	20	9	4.21	0.01375
+69	GO:0009451	RNA modification	114	40	23.98	0.01453
+70	GO:0019835	cytolysis	17	8	3.58	0.01469
+71	GO:1902653	secondary alcohol biosynthetic process	11	6	2.31	0.01486
+72	GO:0071025	RNA surveillance	11	6	2.31	0.01486
+73	GO:0006555	methionine metabolic process	11	6	2.31	0.01486
+74	GO:0046040	IMP metabolic process	11	6	2.31	0.01486
+75	GO:0009168	purine ribonucleoside monophosphate biosynthetic process	14	7	2.94	0.01520
+76	GO:0061077	chaperone-mediated protein folding	14	7	2.94	0.01520
+77	GO:0016125	sterol metabolic process	27	11	5.68	0.01571
+78	GO:0170039	proteinogenic amino acid metabolic process	97	45	20.4	0.01850
+79	GO:0072657	protein localization to membrane	68	22	14.3	0.01900
+80	GO:0008652	amino acid biosynthetic process	54	22	11.36	0.01917
+81	GO:0043094	cellular metabolic compound salvage	21	9	4.42	0.01966
+82	GO:0090150	establishment of protein localization to membrane	57	19	11.99	0.02050
+83	GO:0006862	nucleotide transport	15	7	3.16	0.02342
+84	GO:0006865	amino acid transport	15	7	3.16	0.02342
+85	GO:0009127	purine nucleoside monophosphate biosynthetic process	15	7	3.16	0.02342
+86	GO:0009142	nucleoside triphosphate biosynthetic process	23	16	4.84	0.02371
+87	GO:0016126	sterol biosynthetic process	25	10	5.26	0.02400
+88	GO:0008202	steroid metabolic process	32	12	6.73	0.02406
+89	GO:0046112	nucleobase biosynthetic process	12	6	2.52	0.02452
+90	GO:0006613	cotranslational protein targeting to membrane	12	6	2.52	0.02452
+91	GO:0006614	SRP-dependent cotranslational protein targeting to membrane	12	6	2.52	0.02452
+92	GO:0051084	'de novo' post-translational protein folding	12	6	2.52	0.02452
+93	GO:0051085	chaperone cofactor-dependent protein refolding	12	6	2.52	0.02452
+94	GO:1901679	nucleotide transmembrane transport	12	6	2.52	0.02452
+95	GO:0009408	response to heat	12	6	2.52	0.02452
+96	GO:0003333	amino acid transmembrane transport	12	6	2.52	0.02452
+97	GO:0007006	mitochondrial membrane organization	12	6	2.52	0.02452
+98	GO:0007007	inner mitochondrial membrane organization	12	6	2.52	0.02452
+99	GO:0009266	response to temperature stimulus	12	6	2.52	0.02452
+100	GO:0009150	purine ribonucleotide metabolic process	60	32	12.62	0.02523
+101	GO:0009152	purine ribonucleotide biosynthetic process	33	19	6.94	0.02607
+102	GO:0044272	sulfur compound biosynthetic process	35	17	7.36	0.02643
+103	GO:0072599	establishment of protein localization to endoplasmic reticulum	22	9	4.63	0.02722
+104	GO:0045047	protein targeting to ER	22	9	4.63	0.02722
+105	GO:0051668	localization within membrane	86	26	18.09	0.02754
+106	GO:0000154	rRNA modification	29	11	6.1	0.02769
+107	GO:0006694	steroid biosynthetic process	29	11	6.1	0.02769
+108	GO:0000096	sulfur amino acid metabolic process	17	11	3.58	0.03087
+109	GO:0070972	protein localization to endoplasmic reticulum	26	10	5.47	0.03186
+110	GO:0046390	ribose phosphate biosynthetic process	46	28	9.68	0.03388
+111	GO:0010628	positive regulation of gene expression	23	9	4.84	0.03660
+112	GO:0009259	ribonucleotide metabolic process	70	40	14.72	0.03662
+113	GO:0009308	amine metabolic process	13	6	2.73	0.03760
+114	GO:0009260	ribonucleotide biosynthetic process	43	27	9.04	0.03912
+115	GO:0009086	methionine biosynthetic process	10	5	2.1	0.03996
+116	GO:0031118	rRNA pseudouridine synthesis	10	5	2.1	0.03996
+117	GO:0071027	nuclear RNA surveillance	10	5	2.1	0.03996
+118	GO:0009148	pyrimidine nucleoside triphosphate biosynthetic process	10	5	2.1	0.03996
+119	GO:0030150	protein import into mitochondrial matrix	10	5	2.1	0.03996
+120	GO:0006576	biogenic amine metabolic process	10	5	2.1	0.03996
+121	GO:0001510	RNA methylation	50	16	10.52	0.04595
+122	GO:0170036	import into the mitochondrion	17	7	3.58	0.04795
+123	GO:1901607	alpha-amino acid biosynthetic process	51	20	10.73	0.04892
+124	GO:0019693	ribose phosphate metabolic process	75	41	15.78	0.04963

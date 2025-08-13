@@ -1,0 +1,24 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0007265	Ras protein signal transduction	44	9	1.18	1.8e-06
+2	GO:0043652	engulfment of apoptotic cell	13	4	0.35	0.00030
+3	GO:0000281	mitotic cytokinesis	24	5	0.65	0.00037
+4	GO:0008360	regulation of cell shape	15	4	0.4	0.00054
+5	GO:0019953	sexual reproduction	100	9	2.69	0.00136
+6	GO:0034599	cellular response to oxidative stress	34	5	0.92	0.00195
+7	GO:0006575	cellular modified amino acid metabolic process	37	5	1	0.00286
+8	GO:0030865	cortical cytoskeleton organization	24	4	0.65	0.00351
+9	GO:0098869	cellular oxidant detoxification	26	4	0.7	0.00474
+10	GO:0007163	establishment or maintenance of cell polarity	28	4	0.75	0.00623
+11	GO:0045454	cell redox homeostasis	15	3	0.4	0.00685
+12	GO:0032446	protein modification by small protein conjugation	182	11	4.9	0.00948
+13	GO:0016567	protein ubiquitination	161	10	4.33	0.01101
+14	GO:0030162	regulation of proteolysis	44	4	1.18	0.02969
+15	GO:0170041	non-proteinogenic amino acid metabolic process	26	3	0.7	0.03157
+16	GO:0042559	pteridine-containing compound biosynthetic process	11	2	0.3	0.03375
+17	GO:0051260	protein homooligomerization	11	2	0.3	0.03375
+18	GO:0120009	intermembrane lipid transfer	12	2	0.32	0.03979
+19	GO:0007165	signal transduction	506	27	13.62	0.04219
+20	GO:0019941	modification-dependent protein catabolic process	174	9	4.68	0.04402
+21	GO:0023052	signaling	509	27	13.7	0.04452
+22	GO:0007154	cell communication	509	27	13.7	0.04452
+23	GO:0043632	modification-dependent macromolecule catabolic process	175	9	4.71	0.04538

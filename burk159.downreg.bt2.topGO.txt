@@ -1,0 +1,26 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	74	50	18.61	6.0e-11
+2	GO:0170034	L-amino acid biosynthetic process	18	14	4.53	3.8e-06
+3	GO:0170038	proteinogenic amino acid biosynthetic process	18	14	4.53	3.8e-06
+4	GO:0006418	tRNA aminoacylation for protein translation	24	16	6.04	1.9e-05
+5	GO:0044085	cellular component biogenesis	10	8	2.52	0.00042
+6	GO:0016043	cellular component organization	19	12	4.78	0.00048
+7	GO:0006935	chemotaxis	17	11	4.28	0.00062
+8	GO:0006164	purine nucleotide biosynthetic process	13	9	3.27	0.00099
+9	GO:0006457	protein folding	21	12	5.28	0.00168
+10	GO:0072524	pyridine-containing compound metabolic process	10	7	2.52	0.00355
+11	GO:0009150	purine ribonucleotide metabolic process	13	8	3.27	0.00571
+12	GO:0006629	lipid metabolic process	21	11	5.28	0.00645
+13	GO:0044255	cellular lipid metabolic process	14	8	3.52	0.01043
+14	GO:0006260	DNA replication	15	8	3.77	0.01753
+15	GO:0008610	lipid biosynthetic process	10	6	2.52	0.02002
+16	GO:0009199	ribonucleoside triphosphate metabolic process	10	6	2.52	0.02002
+17	GO:0009205	purine ribonucleoside triphosphate metabolic process	10	6	2.52	0.02002
+18	GO:0009141	nucleoside triphosphate metabolic process	10	6	2.52	0.02002
+19	GO:0042558	pteridine-containing compound metabolic process	10	6	2.52	0.02002
+20	GO:0009144	purine nucleoside triphosphate metabolic process	10	6	2.52	0.02002
+21	GO:0033013	tetrapyrrole metabolic process	13	7	3.27	0.02465
+22	GO:0033014	tetrapyrrole biosynthetic process	13	7	3.27	0.02465
+23	GO:0019637	organophosphate metabolic process	68	31	17.1	0.04131
+24	GO:0170033	L-amino acid metabolic process	22	17	5.53	0.04852
+25	GO:0170039	proteinogenic amino acid metabolic process	22	17	5.53	0.04852

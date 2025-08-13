@@ -1,0 +1,66 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0043157	response to cation stress	10	8	1.06	5.7e-07
+2	GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	16	10	1.7	7.5e-07
+3	GO:0019953	sexual reproduction	107	30	11.37	1.3e-05
+4	GO:0033554	cellular response to stress	377	60	40.04	0.00066
+5	GO:0007165	signal transduction	530	90	56.3	0.00070
+6	GO:0016567	protein ubiquitination	167	31	17.74	0.00123
+7	GO:0007265	Ras protein signal transduction	44	12	4.67	0.00158
+8	GO:0007166	cell surface receptor signaling pathway	34	10	3.61	0.00208
+9	GO:0000723	telomere maintenance	21	7	2.23	0.00451
+10	GO:0007131	reciprocal meiotic recombination	22	7	2.34	0.00602
+11	GO:0010628	positive regulation of gene expression	23	7	2.44	0.00788
+12	GO:0048856	anatomical structure development	170	32	18.06	0.00826
+13	GO:0008360	regulation of cell shape	18	6	1.91	0.00849
+14	GO:0050793	regulation of developmental process	48	14	5.1	0.01040
+15	GO:0099120	socially cooperative development	96	18	10.2	0.01119
+16	GO:0051703	biological process involved in intraspecies interaction between organisms	96	18	10.2	0.01119
+17	GO:0030587	sorocarp development	96	18	10.2	0.01119
+18	GO:0080135	regulation of cellular response to stress	19	6	2.02	0.01131
+19	GO:0065007	biological regulation	1316	195	139.79	0.01137
+20	GO:0035556	intracellular signal transduction	330	54	35.05	0.01370
+21	GO:0000077	DNA damage checkpoint signaling	26	7	2.76	0.01598
+22	GO:0045454	cell redox homeostasis	15	5	1.59	0.01613
+23	GO:0098657	import into cell	160	26	17	0.01721
+24	GO:0006897	endocytosis	153	25	16.25	0.01806
+25	GO:0006907	pinocytosis	33	8	3.51	0.01939
+26	GO:0042770	signal transduction in response to DNA damage	27	7	2.87	0.01965
+27	GO:0009628	response to abiotic stimulus	50	17	5.31	0.02019
+28	GO:0043652	engulfment of apoptotic cell	16	5	1.7	0.02146
+29	GO:0007264	small GTPase-mediated signal transduction	112	25	11.9	0.02237
+30	GO:0034599	cellular response to oxidative stress	34	8	3.61	0.02308
+31	GO:0032434	regulation of proteasomal ubiquitin-dependent protein catabolic process	22	6	2.34	0.02364
+32	GO:0080134	regulation of response to stress	22	6	2.34	0.02364
+33	GO:0019941	modification-dependent protein catabolic process	180	28	19.12	0.02371
+34	GO:0007186	G protein-coupled receptor signaling pathway	54	11	5.74	0.02420
+35	GO:0000209	protein polyubiquitination	61	12	6.48	0.02464
+36	GO:0043632	modification-dependent macromolecule catabolic process	181	28	19.23	0.02533
+37	GO:0051716	cellular response to stimulus	850	145	90.29	0.02580
+38	GO:0006974	DNA damage response	221	33	23.47	0.02590
+39	GO:0070887	cellular response to chemical stimulus	83	15	8.82	0.02671
+40	GO:0030163	protein catabolic process	230	34	24.43	0.02742
+41	GO:0044773	mitotic DNA damage checkpoint signaling	17	5	1.81	0.02781
+42	GO:0043277	apoptotic cell clearance	17	5	1.81	0.02781
+43	GO:2000058	regulation of ubiquitin-dependent protein catabolic process	23	6	2.44	0.02921
+44	GO:0062197	cellular response to chemical stress	42	9	4.46	0.02933
+45	GO:0051050	positive regulation of transport	12	4	1.27	0.03112
+46	GO:0032107	regulation of response to nutrient levels	12	4	1.27	0.03112
+47	GO:0051128	regulation of cellular component organization	122	20	12.96	0.03127
+48	GO:1903047	mitotic cell cycle process	123	20	13.07	0.03378
+49	GO:0032956	regulation of actin cytoskeleton organization	71	13	7.54	0.03416
+50	GO:0030001	metal ion transport	64	12	6.8	0.03471
+51	GO:0051603	proteolysis involved in protein catabolic process	227	33	24.11	0.03644
+52	GO:0006302	double-strand break repair	79	14	8.39	0.03677
+53	GO:0032970	regulation of actin filament-based process	72	13	7.65	0.03781
+54	GO:0007163	establishment or maintenance of cell polarity	31	7	3.29	0.04019
+55	GO:0061136	regulation of proteasomal protein catabolic process	31	7	3.29	0.04019
+56	GO:0006835	dicarboxylic acid transport	13	4	1.38	0.04128
+57	GO:0051125	regulation of actin nucleation	13	4	1.38	0.04128
+58	GO:0043547	positive regulation of GTPase activity	66	12	7.01	0.04286
+59	GO:0050789	regulation of biological process	1214	180	128.95	0.04383
+60	GO:0043087	regulation of GTPase activity	96	16	10.2	0.04436
+61	GO:0031570	DNA integrity checkpoint signaling	32	7	3.4	0.04692
+62	GO:0051049	regulation of transport	32	7	3.4	0.04692
+63	GO:0018105	peptidyl-serine phosphorylation	32	7	3.4	0.04692
+64	GO:1903050	regulation of proteolysis involved in protein catabolic process	32	7	3.4	0.04692
+65	GO:0009896	positive regulation of catabolic process	53	10	5.63	0.04943

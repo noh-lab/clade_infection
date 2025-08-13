@@ -1,0 +1,73 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	287	107	47.07	5.8e-14
+2	GO:1902600	proton transmembrane transport	40	24	6.56	4.8e-10
+3	GO:0042742	defense response to bacterium	15	12	2.46	9.9e-08
+4	GO:0009253	peptidoglycan catabolic process	11	10	1.8	1.3e-07
+5	GO:0006099	tricarboxylic acid cycle	30	17	4.92	5.5e-07
+6	GO:0002181	cytoplasmic translation	47	22	7.71	9.9e-07
+7	GO:0015986	proton motive force-driven ATP synthesis	11	9	1.8	3.3e-06
+8	GO:0019835	cytolysis	17	10	2.79	8.6e-05
+9	GO:2001235	positive regulation of apoptotic signaling pathway	10	7	1.64	0.00024
+10	GO:0055085	transmembrane transport	339	97	55.6	0.00054
+11	GO:0010952	positive regulation of peptidase activity	11	7	1.8	0.00056
+12	GO:0006955	immune response	12	7	1.97	0.00115
+13	GO:0015031	protein transport	336	76	55.11	0.00137
+14	GO:0032511	late endosome to vacuole transport via multivesicular body sorting pathway	13	7	2.13	0.00215
+15	GO:0000028	ribosomal small subunit assembly	13	7	2.13	0.00215
+16	GO:0006096	glycolytic process	20	9	3.28	0.00248
+17	GO:0030641	regulation of cellular pH	11	6	1.8	0.00420
+18	GO:0006909	phagocytosis	89	28	14.6	0.00460
+19	GO:0044248	cellular catabolic process	201	47	32.97	0.00571
+20	GO:0044282	small molecule catabolic process	126	32	20.67	0.00595
+21	GO:0006084	acetyl-CoA metabolic process	15	7	2.46	0.00596
+22	GO:0006672	ceramide metabolic process	12	6	1.97	0.00724
+23	GO:0001845	phagolysosome assembly	12	6	1.97	0.00724
+24	GO:0003333	amino acid transmembrane transport	12	6	1.97	0.00724
+25	GO:0009205	purine ribonucleoside triphosphate metabolic process	37	22	6.07	0.00771
+26	GO:0007034	vacuolar transport	49	19	8.04	0.00915
+27	GO:0006869	lipid transport	67	19	10.99	0.00934
+28	GO:0006119	oxidative phosphorylation	36	12	5.9	0.00958
+29	GO:0015711	organic anion transport	36	12	5.9	0.00958
+30	GO:0009063	amino acid catabolic process	58	17	9.51	0.00961
+31	GO:0009308	amine metabolic process	13	6	2.13	0.01161
+32	GO:0006414	translational elongation	33	11	5.41	0.01290
+33	GO:0015849	organic acid transport	25	9	4.1	0.01399
+34	GO:0046942	carboxylic acid transport	25	9	4.1	0.01399
+35	GO:0051453	regulation of intracellular pH	10	5	1.64	0.01436
+36	GO:0006576	biogenic amine metabolic process	10	5	1.64	0.01436
+37	GO:0052547	regulation of peptidase activity	15	10	2.46	0.01517
+38	GO:0071985	multivesicular body sorting pathway	17	10	2.79	0.01519
+39	GO:0032509	endosome transport via multivesicular body sorting pathway	17	10	2.79	0.01519
+40	GO:0006665	sphingolipid metabolic process	42	16	6.89	0.01689
+41	GO:0072348	sulfur compound transport	14	6	2.3	0.01755
+42	GO:0170035	L-amino acid catabolic process	39	12	6.4	0.01870
+43	GO:1901606	alpha-amino acid catabolic process	53	15	8.69	0.02007
+44	GO:0046395	carboxylic acid catabolic process	92	23	15.09	0.02165
+45	GO:0016054	organic acid catabolic process	92	23	15.09	0.02165
+46	GO:0019319	hexose biosynthetic process	11	5	1.8	0.02283
+47	GO:0006094	gluconeogenesis	11	5	1.8	0.02283
+48	GO:1905039	carboxylic acid transmembrane transport	15	6	2.46	0.02528
+49	GO:1903825	organic acid transmembrane transport	15	6	2.46	0.02528
+50	GO:0042278	purine nucleoside metabolic process	15	6	2.46	0.02528
+51	GO:0042026	protein refolding	15	6	2.46	0.02528
+52	GO:0006900	vesicle budding from membrane	19	7	3.12	0.02566
+53	GO:0009201	ribonucleoside triphosphate biosynthetic process	19	13	3.12	0.02810
+54	GO:0070925	organelle assembly	96	31	15.75	0.03144
+55	GO:0046364	monosaccharide biosynthetic process	12	5	1.97	0.03397
+56	GO:0032456	endocytic recycling	12	5	1.97	0.03397
+57	GO:0046337	phosphatidylethanolamine metabolic process	12	5	1.97	0.03397
+58	GO:0009220	pyrimidine ribonucleotide biosynthetic process	12	5	1.97	0.03397
+59	GO:0009218	pyrimidine ribonucleotide metabolic process	12	5	1.97	0.03397
+60	GO:0090114	COPII-coated vesicle budding	12	5	1.97	0.03397
+61	GO:0051248	negative regulation of protein metabolic process	20	7	3.28	0.03405
+62	GO:0006749	glutathione metabolic process	16	6	2.62	0.03498
+63	GO:0006886	intracellular protein transport	213	45	34.94	0.03848
+64	GO:0072665	protein localization to vacuole	25	8	4.1	0.04076
+65	GO:0072666	establishment of protein localization to vacuole	21	7	3.44	0.04408
+66	GO:0009116	nucleoside metabolic process	21	7	3.44	0.04408
+67	GO:0006575	cellular modified amino acid metabolic process	39	11	6.4	0.04415
+68	GO:0045324	late endosome to vacuole transport	22	11	3.61	0.04459
+69	GO:0006006	glucose metabolic process	17	6	2.79	0.04678
+70	GO:0006458	'de novo' protein folding	13	5	2.13	0.04794
+71	GO:0034067	protein localization to Golgi apparatus	13	5	2.13	0.04794
+72	GO:0006457	protein folding	89	21	14.6	0.04888

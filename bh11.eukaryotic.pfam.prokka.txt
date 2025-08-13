@@ -1,0 +1,33 @@
+pfam12796	Ank_2	PHAYL_00275	Ankyrin repeat-containing protein
+pfam12796	Ank_2	PHAYL_01767	hypothetical protein
+pfam12796	Ank_2	PHAYL_03059	Ankyrin repeat-containing protein
+pfam12796	Ank_2	PHAYL_03061	Ankyrin repeat-containing protein
+pfam12796	Ank_2	PHAYL_03063	Ankyrin repeat-containing protein
+pfam12796	Ank_2	PHAYL_03472	Ankyrin repeat-containing protein
+pfam13606	Ank_3	PHAYL_03032	Ankyrin repeat-containing protein
+pfam13637	Ank_4	PHAYL_03027	Ankyrin repeat-containing protein
+pfam00515	TPR_1	PHAYL_00316	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam00515	TPR_1	PHAYL_00317	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam00515	TPR_1	PHAYL_00987	Tetratricopeptide repeat-containing protein
+pfam13414	TPR_11	PHAYL_00317	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13414	TPR_11	PHAYL_00318	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13414	TPR_11	PHAYL_00399	Flp pilus assembly protein TadD, contains TPR repeats
+pfam13432	TPR_16	PHAYL_00316	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PHAYL_00317	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PHAYL_00318	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PHAYL_00399	Flp pilus assembly protein TadD, contains TPR repeats
+pfam13432	TPR_16	PHAYL_00987	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PHAYL_01020	Lipopolysaccharide biosynthesis regulator YciM, contains six TPR domains and a predicted metal-binding C-terminal domain
+pfam13432	TPR_16	PHAYL_01625	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PHAYL_01644	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PHAYL_02098	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PHAYL_02836	Uncharacterized conserved protein HemY, contains two TPR repeats
+pfam13431	TPR_17	PHAYL_00399	Flp pilus assembly protein TadD, contains TPR repeats
+pfam14559	TPR_19	PHAYL_00399	Flp pilus assembly protein TadD, contains TPR repeats
+pfam14559	TPR_19	PHAYL_02446	 thioredoxin
+pfam07719	TPR_2	PHAYL_00317	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam07719	TPR_2	PHAYL_02098	Tetratricopeptide repeat-containing protein
+pfam14561	TPR_20	PHAYL_02446	 thioredoxin
+pfam09976	TPR_21	PHAYL_02129	Putative negative regulator of RcsB-dependent stress response
+pfam13181	TPR_8	PHAYL_00987	Tetratricopeptide repeat-containing protein
+pfam13371	TPR_9	PHAYL_02427	Regulator of sirC expression, contains transglutaminase-like and TPR domains

@@ -1,0 +1,45 @@
+pfam12796	Ank_2	PBONN_00973	Ankyrin repeat
+pfam12796	Ank_2	PBONN_01590	hypothetical protein
+pfam12796	Ank_2	PBONN_02882	Ankyrin repeat-containing protein
+pfam12796	Ank_2	PBONN_02888	Ankyrin repeat-containing protein
+pfam12796	Ank_2	PBONN_03375	Ankyrin repeat-containing protein
+pfam13637	Ank_4	PBONN_02917	Ankyrin repeat-containing protein
+pfam13857	Ank_5	PBONN_00263	Ankyrin repeat-containing protein
+pfam13516	LRR_6	PBONN_02901	Leucine Rich repeat-containing protein
+pfam13855	LRR_8	PBONN_00836	Leucine rich repeat-containing protein
+pfam13855	LRR_8	PBONN_00837	Leucine rich repeat-containing protein
+pfam13855	LRR_8	PBONN_00838	Leucine rich repeat-containing protein
+pfam13855	LRR_8	PBONN_00839	Leucine rich repeat-containing protein
+pfam00515	TPR_1	PBONN_00405	Tetratricopeptide (TPR) repeat
+pfam00515	TPR_1	PBONN_02626	Ca-activated chloride channel family protein
+pfam13414	TPR_11	PBONN_00161	Tetratricopeptide (TPR) repeat
+pfam13414	TPR_11	PBONN_00296	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13414	TPR_11	PBONN_00297	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13414	TPR_11	PBONN_00963	Tfp pilus assembly protein PilF
+pfam13424	TPR_12	PBONN_01043	HemY protein
+pfam13432	TPR_16	PBONN_00161	Tetratricopeptide (TPR) repeat
+pfam13432	TPR_16	PBONN_00295	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PBONN_00296	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PBONN_00297	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PBONN_00405	Tetratricopeptide (TPR) repeat
+pfam13432	TPR_16	PBONN_00963	Tfp pilus assembly protein PilF
+pfam13432	TPR_16	PBONN_00990	Lipopolysaccharide biosynthesis regulator YciM, contains six TPR domains and a predicted metal-binding C-terminal domain
+pfam13432	TPR_16	PBONN_01268	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PBONN_01657	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PBONN_01680	Tfp pilus assembly protein PilF
+pfam13432	TPR_16	PBONN_02656	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PBONN_03490	Tetratricopeptide repeat-containing protein
+pfam14559	TPR_19	PBONN_01046	Tetratricopeptide repeat-containing protein
+pfam14559	TPR_19	PBONN_01861	type III secretion low calcium response chaperone LcrH/SycD
+pfam14559	TPR_19	PBONN_02366	 thioredoxin
+pfam07719	TPR_2	PBONN_00296	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam07719	TPR_2	PBONN_01268	Tetratricopeptide repeat-containing protein
+pfam14561	TPR_20	PBONN_02366	 thioredoxin
+pfam09976	TPR_21	PBONN_01236	Putative negative regulator of RcsB-dependent stress response
+pfam07720	TPR_3	PBONN_01861	type III secretion low calcium response chaperone LcrH/SycD
+pfam07721	TPR_4	PBONN_00161	Tetratricopeptide (TPR) repeat
+pfam13176	TPR_7	PBONN_00161	Tetratricopeptide (TPR) repeat
+pfam13181	TPR_8	PBONN_00295	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13181	TPR_8	PBONN_00296	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13181	TPR_8	PBONN_01046	Tetratricopeptide repeat-containing protein
+pfam13371	TPR_9	PBONN_02347	Regulator of sirC expression, contains transglutaminase-like and TPR domains

@@ -1,0 +1,58 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	284	41	15.46	1.2e-07
+2	GO:0016126	sterol biosynthetic process	25	8	1.36	3.3e-05
+3	GO:0009253	peptidoglycan catabolic process	11	5	0.6	0.00016
+4	GO:0042742	defense response to bacterium	14	5	0.76	0.00061
+5	GO:0006084	acetyl-CoA metabolic process	15	5	0.82	0.00088
+6	GO:0006730	one-carbon metabolic process	10	4	0.54	0.00139
+7	GO:0019835	cytolysis	17	5	0.93	0.00166
+8	GO:1902653	secondary alcohol biosynthetic process	11	4	0.6	0.00209
+9	GO:0006096	glycolytic process	19	5	1.03	0.00285
+10	GO:0072594	establishment of protein localization to organelle	125	15	6.8	0.00298
+11	GO:0090114	COPII-coated vesicle budding	12	4	0.65	0.00300
+12	GO:0006886	intracellular protein transport	209	21	11.38	0.00442
+13	GO:1902600	proton transmembrane transport	40	7	2.18	0.00519
+14	GO:0000122	negative regulation of transcription by RNA polymerase II	22	5	1.2	0.00564
+15	GO:0010628	positive regulation of gene expression	22	5	1.2	0.00564
+16	GO:0006413	translational initiation	64	9	3.48	0.00724
+17	GO:1901605	alpha-amino acid metabolic process	114	13	6.21	0.00852
+18	GO:0044272	sulfur compound biosynthetic process	34	6	1.85	0.00912
+19	GO:0000096	sulfur amino acid metabolic process	17	4	0.93	0.01164
+20	GO:0002181	cytoplasmic translation	47	7	2.56	0.01267
+21	GO:0170035	L-amino acid catabolic process	37	6	2.01	0.01375
+22	GO:0044282	small molecule catabolic process	122	13	6.64	0.01466
+23	GO:0009066	aspartate family amino acid metabolic process	28	5	1.52	0.01613
+24	GO:0000226	microtubule cytoskeleton organization	39	6	2.12	0.01763
+25	GO:0170033	L-amino acid metabolic process	99	11	5.39	0.01793
+26	GO:0006555	methionine metabolic process	11	3	0.6	0.01900
+27	GO:1901606	alpha-amino acid catabolic process	51	7	2.78	0.01940
+28	GO:0055085	transmembrane transport	329	31	17.91	0.01959
+29	GO:0043648	dicarboxylic acid metabolic process	40	6	2.18	0.01982
+30	GO:0008299	isoprenoid biosynthetic process	20	4	1.09	0.02084
+31	GO:0006613	cotranslational protein targeting to membrane	12	3	0.65	0.02433
+32	GO:0006614	SRP-dependent cotranslational protein targeting to membrane	12	3	0.65	0.02433
+33	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	12	3	0.65	0.02433
+34	GO:0006606	protein import into nucleus	42	6	2.29	0.02475
+35	GO:0007017	microtubule-based process	54	7	2.94	0.02586
+36	GO:0034504	protein localization to nucleus	43	6	2.34	0.02750
+37	GO:0006417	regulation of translation	43	6	2.34	0.02750
+38	GO:0006414	translational elongation	32	5	1.74	0.02771
+39	GO:0170039	proteinogenic amino acid metabolic process	93	10	5.06	0.02875
+40	GO:0072657	protein localization to membrane	68	8	3.7	0.03012
+41	GO:0000097	sulfur amino acid biosynthetic process	13	3	0.71	0.03038
+42	GO:0006760	folic acid-containing compound metabolic process	13	3	0.71	0.03038
+43	GO:0051170	import into nucleus	44	6	2.4	0.03044
+44	GO:0009063	amino acid catabolic process	56	7	3.05	0.03090
+45	GO:0006605	protein targeting	82	9	4.46	0.03300
+46	GO:0170034	L-amino acid biosynthetic process	46	6	2.5	0.03692
+47	GO:0170038	proteinogenic amino acid biosynthetic process	46	6	2.5	0.03692
+48	GO:0006720	isoprenoid metabolic process	24	4	1.31	0.03858
+49	GO:0170040	proteinogenic amino acid catabolic process	35	5	1.91	0.03917
+50	GO:0051668	localization within membrane	86	9	4.68	0.04296
+51	GO:0006623	protein targeting to vacuole	15	3	0.82	0.04462
+52	GO:0065002	intracellular protein transmembrane transport	15	3	0.82	0.04462
+53	GO:0009987	cellular process	4286	253	233.3	0.04727
+54	GO:1901607	alpha-amino acid biosynthetic process	49	6	2.67	0.04820
+55	GO:0006457	protein folding	88	9	4.79	0.04862
+56	GO:0070972	protein localization to endoplasmic reticulum	26	4	1.42	0.04989
+57	GO:0170041	non-proteinogenic amino acid metabolic process	26	4	1.42	0.04989

@@ -1,0 +1,6 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0055085	transmembrane transport	88	41	20.42	6.3e-07
+2	GO:0005975	carbohydrate metabolic process	63	28	14.62	0.00012
+3	GO:0006810	transport	252	98	58.47	0.00022
+4	GO:0008643	carbohydrate transport	11	7	2.55	0.00472
+5	GO:0006310	DNA recombination	11	6	2.55	0.02373
