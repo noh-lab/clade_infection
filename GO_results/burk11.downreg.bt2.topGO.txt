@@ -1,0 +1,13 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0022607	cellular component assembly	12	6	2.68	0.031
+2	GO:0016998	cell wall macromolecule catabolic process	4	3	0.89	0.037
+3	GO:0006778	porphyrin-containing compound metabolic process	4	3	0.89	0.037
+4	GO:0006779	porphyrin-containing compound biosynthetic process	4	3	0.89	0.037
+5	GO:0055085	transmembrane transport	33	12	7.36	0.044
+6	GO:0009057	macromolecule catabolic process	7	4	1.56	0.048
+7	GO:0009056	catabolic process	13	6	2.9	0.048
+8	GO:0044085	cellular component biogenesis	13	6	2.9	0.048
+9	GO:0009070	serine family amino acid biosynthetic process	2	2	0.45	0.050
+10	GO:0031163	metallo-sulfur cluster assembly	2	2	0.45	0.050
+11	GO:0018193	peptidyl-amino acid modification	2	2	0.45	0.050
+12	GO:0016226	iron-sulfur cluster assembly	2	2	0.45	0.050

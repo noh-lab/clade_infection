@@ -1,0 +1,46 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0030150	protein import into mitochondrial matrix	10	4	0.2	2.6e-05
+2	GO:0006221	pyrimidine nucleotide biosynthetic process	16	4	0.31	0.00021
+3	GO:0031167	rRNA methylation	18	4	0.35	0.00034
+4	GO:0030490	maturation of SSU-rRNA	41	5	0.8	0.00111
+5	GO:0031288	sorocarp morphogenesis	25	4	0.49	0.00127
+6	GO:0043652	engulfment of apoptotic cell	16	3	0.31	0.00338
+7	GO:0042274	ribosomal small subunit biogenesis	58	8	1.13	0.00359
+8	GO:0008360	regulation of cell shape	18	3	0.35	0.00479
+9	GO:0031152	aggregation involved in sorocarp development	36	4	0.7	0.00503
+10	GO:0007264	small GTPase-mediated signal transduction	112	7	2.19	0.00603
+11	GO:0009156	ribonucleoside monophosphate biosynthetic process	23	3	0.45	0.00969
+12	GO:0007265	Ras protein signal transduction	44	4	0.86	0.01029
+13	GO:0006979	response to oxidative stress	46	4	0.9	0.01201
+14	GO:0098869	cellular oxidant detoxification	26	3	0.51	0.01364
+15	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	27	3	0.53	0.01513
+16	GO:0000281	mitotic cytokinesis	27	3	0.53	0.01513
+17	GO:0030865	cortical cytoskeleton organization	27	3	0.53	0.01513
+18	GO:0009129	pyrimidine nucleoside monophosphate metabolic process	10	2	0.2	0.01540
+19	GO:0009148	pyrimidine nucleoside triphosphate biosynthetic process	10	2	0.2	0.01540
+20	GO:0009130	pyrimidine nucleoside monophosphate biosynthetic process	10	2	0.2	0.01540
+21	GO:0061640	cytoskeleton-dependent cytokinesis	28	3	0.55	0.01671
+22	GO:0055085	transmembrane transport	334	16	6.54	0.01771
+23	GO:0097237	cellular response to toxic substance	29	3	0.57	0.01837
+24	GO:1990748	cellular detoxification	29	3	0.57	0.01837
+25	GO:0043173	nucleotide salvage	11	2	0.22	0.01858
+26	GO:0009147	pyrimidine nucleoside triphosphate metabolic process	11	2	0.22	0.01858
+27	GO:0007005	mitochondrion organization	81	5	1.58	0.02059
+28	GO:0006364	rRNA processing	147	14	2.88	0.02068
+29	GO:0007163	establishment or maintenance of cell polarity	31	3	0.61	0.02198
+30	GO:0120009	intermembrane lipid transfer	12	2	0.23	0.02202
+31	GO:0009408	response to heat	12	2	0.23	0.02202
+32	GO:0009266	response to temperature stimulus	12	2	0.23	0.02202
+33	GO:0009220	pyrimidine ribonucleotide biosynthetic process	12	2	0.23	0.02202
+34	GO:0009218	pyrimidine ribonucleotide metabolic process	12	2	0.23	0.02202
+35	GO:0046112	nucleobase biosynthetic process	12	2	0.23	0.02202
+36	GO:0000910	cytokinesis	32	3	0.63	0.02391
+37	GO:0098754	detoxification	32	3	0.63	0.02391
+38	GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	13	2	0.25	0.02569
+39	GO:0009636	response to toxic substance	34	3	0.67	0.02806
+40	GO:0034599	cellular response to oxidative stress	34	3	0.67	0.02806
+41	GO:0042254	ribosome biogenesis	210	17	4.11	0.03157
+42	GO:0016072	rRNA metabolic process	158	14	3.09	0.03239
+43	GO:0097250	mitochondrial respirasome assembly	36	3	0.7	0.03255
+44	GO:0045454	cell redox homeostasis	15	2	0.29	0.03372
+45	GO:0062197	cellular response to chemical stress	42	3	0.82	0.04815

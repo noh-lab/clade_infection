@@ -1,0 +1,40 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	73	63	24.51	1.2e-14
+2	GO:0006418	tRNA aminoacylation for protein translation	24	21	8.06	5.8e-08
+3	GO:0033014	tetrapyrrole biosynthetic process	13	12	4.36	1.7e-05
+4	GO:0016043	cellular component organization	19	15	6.38	6.1e-05
+5	GO:0006457	protein folding	19	15	6.38	6.1e-05
+6	GO:0044283	small molecule biosynthetic process	32	26	10.74	7.2e-05
+7	GO:0170034	L-amino acid biosynthetic process	18	14	6.04	0.00015
+8	GO:0170038	proteinogenic amino acid biosynthetic process	18	14	6.04	0.00015
+9	GO:0006260	DNA replication	15	12	5.04	0.00029
+10	GO:0009451	RNA modification	12	10	4.03	0.00056
+11	GO:0006164	purine nucleotide biosynthetic process	13	10	4.36	0.00169
+12	GO:0009150	purine ribonucleotide metabolic process	13	10	4.36	0.00169
+13	GO:0044085	cellular component biogenesis	10	8	3.36	0.00350
+14	GO:0006935	chemotaxis	18	12	6.04	0.00402
+15	GO:0006396	RNA processing	11	8	3.69	0.00908
+16	GO:0006281	DNA repair	24	14	8.06	0.01062
+17	GO:0033554	cellular response to stress	24	14	8.06	0.01062
+18	GO:0006974	DNA damage response	24	14	8.06	0.01062
+19	GO:0019637	organophosphate metabolic process	66	38	22.16	0.01384
+20	GO:0070727	cellular macromolecule localization	12	8	4.03	0.01930
+21	GO:0051641	cellular localization	12	8	4.03	0.01930
+22	GO:0008104	protein localization	12	8	4.03	0.01930
+23	GO:0045184	establishment of protein localization	12	8	4.03	0.01930
+24	GO:0033036	macromolecule localization	12	8	4.03	0.01930
+25	GO:0008610	lipid biosynthetic process	10	7	3.36	0.02021
+26	GO:0009199	ribonucleoside triphosphate metabolic process	10	7	3.36	0.02021
+27	GO:0009205	purine ribonucleoside triphosphate metabolic process	10	7	3.36	0.02021
+28	GO:0072524	pyridine-containing compound metabolic process	10	7	3.36	0.02021
+29	GO:0009141	nucleoside triphosphate metabolic process	10	7	3.36	0.02021
+30	GO:0009144	purine nucleoside triphosphate metabolic process	10	7	3.36	0.02021
+31	GO:0090407	organophosphate biosynthetic process	51	29	17.12	0.02284
+32	GO:0044255	cellular lipid metabolic process	17	10	5.71	0.02810
+33	GO:0006629	lipid metabolic process	24	13	8.06	0.02931
+34	GO:0006259	DNA metabolic process	57	32	19.14	0.03490
+35	GO:0042558	pteridine-containing compound metabolic process	11	7	3.69	0.03969
+36	GO:0006793	phosphorus metabolic process	75	40	25.18	0.04080
+37	GO:0006796	phosphate-containing compound metabolic process	75	40	25.18	0.04080
+38	GO:1901135	carbohydrate derivative metabolic process	22	16	7.39	0.04156
+39	GO:0006399	tRNA metabolic process	29	25	9.74	0.04267

@@ -1,0 +1,16 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	67	28	13.38	0.00014
+2	GO:0006413	translational initiation	3	3	0.6	0.00785
+3	GO:0032259	methylation	4	3	0.8	0.02678
+4	GO:0009098	L-leucine biosynthetic process	2	2	0.4	0.03971
+5	GO:0050790	regulation of catalytic activity	2	2	0.4	0.03971
+6	GO:0006353	DNA-templated transcription termination	2	2	0.4	0.03971
+7	GO:0017004	cytochrome complex assembly	2	2	0.4	0.03971
+8	GO:0006119	oxidative phosphorylation	2	2	0.4	0.03971
+9	GO:0009082	branched-chain amino acid biosynthetic process	2	2	0.4	0.03971
+10	GO:0043086	negative regulation of catalytic activity	2	2	0.4	0.03971
+11	GO:0009078	pyruvate family amino acid metabolic process	2	2	0.4	0.03971
+12	GO:0009079	pyruvate family amino acid biosynthetic process	2	2	0.4	0.03971
+13	GO:0006551	L-leucine metabolic process	2	2	0.4	0.03971
+14	GO:0065009	regulation of molecular function	2	2	0.4	0.03971
+15	GO:0044092	negative regulation of molecular function	2	2	0.4	0.03971

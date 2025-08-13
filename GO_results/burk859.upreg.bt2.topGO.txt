@@ -1,0 +1,9 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0006412	translation	69	25	11.74	0.00039
+2	GO:0006413	translational initiation	3	3	0.51	0.00483
+3	GO:0010467	gene expression	227	59	38.63	0.00891
+4	GO:0006352	DNA-templated transcription initiation	10	5	1.7	0.01620
+5	GO:0006353	DNA-templated transcription termination	2	2	0.34	0.02877
+6	GO:0016070	RNA metabolic process	176	38	29.95	0.04422
+7	GO:0141187	nucleic acid biosynthetic process	145	32	24.67	0.04944
+8	GO:0032774	RNA biosynthetic process	145	32	24.67	0.04944

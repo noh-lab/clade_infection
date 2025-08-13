@@ -1,0 +1,9 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0001539	cilium or flagellum-dependent cell motility	9	6	2.09	0.0064
+2	GO:0170034	L-amino acid biosynthetic process	17	9	3.94	0.0067
+3	GO:0170038	proteinogenic amino acid biosynthetic process	17	9	3.94	0.0067
+4	GO:0006935	chemotaxis	7	5	1.62	0.0088
+5	GO:0051179	localization	104	32	24.09	0.0345
+6	GO:0051234	establishment of localization	104	32	24.09	0.0345
+7	GO:0008299	isoprenoid biosynthetic process	4	3	0.93	0.0407
+8	GO:0006720	isoprenoid metabolic process	4	3	0.93	0.0407

@@ -1,0 +1,60 @@
+pfam12796	Ank_2	PA070_02024	hypothetical protein
+pfam12796	Ank_2	PA070_03306	Ankyrin repeat-containing protein
+pfam00560	LRR_1	PA070_02910	Leucine Rich Repeat
+pfam13855	LRR_8	PA070_02905	Leucine rich repeat-containing protein
+pfam13855	LRR_8	PA070_02910	Leucine Rich Repeat
+pfam13855	LRR_8	PA070_02977	Leucine-rich repeat (LRR) protein
+pfam08238	Sel1	PA070_00018	TPR repeat
+pfam08238	Sel1	PA070_00092	TPR repeat
+pfam08238	Sel1	PA070_00869	TPR repeat
+pfam08238	Sel1	PA070_04658	hypothetical protein
+pfam08238	Sel1	PA070_05234	Sel1 repeat-containing protein
+pfam08238	Sel1	PA070_06921	hypothetical protein
+pfam00515	TPR_1	PA070_01252	Glycosyltransferase family 9 (heptosyltransferase)
+pfam00515	TPR_1	PA070_04024	Tfp pilus assembly protein PilF
+pfam00515	TPR_1	PA070_07074	Ca-activated chloride channel family protein
+pfam13374	TPR_10	PA070_02174	Flp pilus assembly protein TadD, contains TPR repeats
+pfam13374	TPR_10	PA070_04024	Tfp pilus assembly protein PilF
+pfam13374	TPR_10	PA070_04901	Tfp pilus assembly protein PilF
+pfam13414	TPR_11	PA070_00418	Tetratricopeptide repeat-containing protein
+pfam13414	TPR_11	PA070_04024	Tfp pilus assembly protein PilF
+pfam13424	TPR_12	PA070_00901	HemY protein
+pfam13424	TPR_12	PA070_03441	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13424	TPR_12	PA070_04901	Tfp pilus assembly protein PilF
+pfam13432	TPR_16	PA070_00110	Flp pilus assembly protein TadD, contains TPR repeats
+pfam13432	TPR_16	PA070_00351	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_00418	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_00760	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_01252	Glycosyltransferase family 9 (heptosyltransferase)
+pfam13432	TPR_16	PA070_01271	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_01835	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_02174	Flp pilus assembly protein TadD, contains TPR repeats
+pfam13432	TPR_16	PA070_02399	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_02659	Tetratricopeptide repeat-containing protein
+pfam13432	TPR_16	PA070_03232	Lipopolysaccharide biosynthesis regulator YciM, contains six TPR domains and a predicted metal-binding C-terminal domain
+pfam13432	TPR_16	PA070_03257	Tetratricopeptide (TPR) repeat
+pfam13432	TPR_16	PA070_04024	Tfp pilus assembly protein PilF
+pfam13432	TPR_16	PA070_04110	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam13432	TPR_16	PA070_04238	 MCP methyltransferase, CheR-type
+pfam13432	TPR_16	PA070_04901	Tfp pilus assembly protein PilF
+pfam13432	TPR_16	PA070_05490	Tetratricopeptide (TPR) repeat
+pfam13432	TPR_16	PA070_06847	Tfp pilus assembly protein PilF
+pfam13431	TPR_17	PA070_00418	Tetratricopeptide repeat-containing protein
+pfam13431	TPR_17	PA070_01252	Glycosyltransferase family 9 (heptosyltransferase)
+pfam13431	TPR_17	PA070_04024	Tfp pilus assembly protein PilF
+pfam14559	TPR_19	PA070_00351	Tetratricopeptide repeat-containing protein
+pfam14559	TPR_19	PA070_02933	type III secretion low calcium response chaperone LcrH/SycD
+pfam14559	TPR_19	PA070_02999	Glycosyltransferase family 9 (heptosyltransferase)
+pfam14559	TPR_19	PA070_03441	Predicted O-linked N-acetylglucosamine transferase, SPINDLY family
+pfam14559	TPR_19	PA070_03471	 thioredoxin
+pfam14559	TPR_19	PA070_06377	Tetratricopeptide repeat-containing protein
+pfam14559	TPR_19	PA070_06847	Tfp pilus assembly protein PilF
+pfam14559	TPR_19	PA070_07632	Tetratricopeptide repeat-containing protein
+pfam07719	TPR_2	PA070_02659	Tetratricopeptide repeat-containing protein
+pfam14561	TPR_20	PA070_03471	 thioredoxin
+pfam09976	TPR_21	PA070_02686	Putative negative regulator of RcsB-dependent stress response
+pfam07720	TPR_3	PA070_02933	type III secretion low calcium response chaperone LcrH/SycD
+pfam13181	TPR_8	PA070_00760	Tetratricopeptide repeat-containing protein
+pfam13181	TPR_8	PA070_03257	Tetratricopeptide (TPR) repeat
+pfam13181	TPR_8	PA070_03497	Flp pilus assembly protein TadD, contains TPR repeats
+pfam13371	TPR_9	PA070_03453	Regulator of sirC expression, contains transglutaminase-like and TPR domains

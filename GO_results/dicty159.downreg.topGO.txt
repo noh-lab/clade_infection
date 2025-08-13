@@ -1,0 +1,49 @@
+GO.ID	Term	Annotated	Significant	Expected	elim
+1	GO:0000070	mitotic sister chromatid segregation	32	14	3.35	1.3e-06
+2	GO:0030261	chromosome condensation	10	7	1.05	1.2e-05
+3	GO:0051301	cell division	111	27	11.62	1.9e-05
+4	GO:0007062	sister chromatid cohesion	16	10	1.68	0.00011
+5	GO:0043157	response to cation stress	10	6	1.05	0.00019
+6	GO:0006270	DNA replication initiation	18	8	1.88	0.00023
+7	GO:0051052	regulation of DNA metabolic process	19	8	1.99	0.00036
+8	GO:1902969	mitotic DNA replication	11	6	1.15	0.00037
+9	GO:0006633	fatty acid biosynthetic process	62	16	6.49	0.00046
+10	GO:1903047	mitotic cell cycle process	123	39	12.88	0.00056
+11	GO:0007064	mitotic sister chromatid cohesion	12	6	1.26	0.00068
+12	GO:0007052	mitotic spindle organization	17	7	1.78	0.00101
+13	GO:0051225	spindle assembly	10	5	1.05	0.00199
+14	GO:0006974	DNA damage response	221	42	23.14	0.00242
+15	GO:0007165	signal transduction	530	80	55.49	0.00242
+16	GO:0000723	telomere maintenance	21	7	2.2	0.00416
+17	GO:0031570	DNA integrity checkpoint signaling	32	9	3.35	0.00436
+18	GO:0007131	reciprocal meiotic recombination	22	7	2.3	0.00556
+19	GO:0019953	sexual reproduction	107	24	11.2	0.00561
+20	GO:0006302	double-strand break repair	79	16	8.27	0.00681
+21	GO:0043547	positive regulation of GTPase activity	66	14	6.91	0.00727
+22	GO:0051125	regulation of actin nucleation	13	5	1.36	0.00777
+23	GO:0008360	regulation of cell shape	18	6	1.88	0.00791
+24	GO:0009653	anatomical structure morphogenesis	86	20	9	0.00892
+25	GO:0071897	DNA biosynthetic process	24	7	2.51	0.00937
+26	GO:0006260	DNA replication	79	22	8.27	0.01192
+27	GO:0031288	sorocarp morphogenesis	26	7	2.72	0.01482
+28	GO:0000910	cytokinesis	32	8	3.35	0.01487
+29	GO:0045005	DNA-templated DNA replication maintenance of fidelity	10	4	1.05	0.01491
+30	GO:0000281	mitotic cytokinesis	27	7	2.83	0.01825
+31	GO:0000724	double-strand break repair via homologous recombination	53	11	5.55	0.01924
+32	GO:0043652	engulfment of apoptotic cell	16	5	1.68	0.02025
+33	GO:0034315	regulation of Arp2/3 complex-mediated actin nucleation	11	4	1.15	0.02152
+34	GO:0061640	cytoskeleton-dependent cytokinesis	28	7	2.93	0.02221
+35	GO:0007264	small GTPase-mediated signal transduction	112	19	11.73	0.02236
+36	GO:0006281	DNA repair	193	35	20.2	0.02313
+37	GO:0141124	intracellular signaling cassette	159	25	16.65	0.02385
+38	GO:0000725	recombinational repair	55	11	5.76	0.02496
+39	GO:0043277	apoptotic cell clearance	17	5	1.78	0.02628
+40	GO:1903046	meiotic cell cycle process	34	11	3.56	0.02883
+41	GO:0000076	DNA replication checkpoint signaling	12	4	1.26	0.02967
+42	GO:0005976	polysaccharide metabolic process	18	5	1.88	0.03335
+43	GO:0044042	glucan metabolic process	18	5	1.88	0.03335
+44	GO:0007265	Ras protein signal transduction	44	9	4.61	0.03559
+45	GO:0051338	regulation of transferase activity	31	7	3.25	0.03753
+46	GO:0043549	regulation of kinase activity	25	6	2.62	0.04020
+47	GO:0000077	DNA damage checkpoint signaling	26	6	2.72	0.04782
+48	GO:0035556	intracellular signal transduction	330	49	34.55	0.04923
