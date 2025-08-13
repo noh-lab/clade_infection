@@ -12,8 +12,12 @@ This repo contains the following files:
 * `b*secretion.system.prokka.txt` - Table of symbiont genes with predicted function in bacterial secretion systems
 * `b*eukaryotic.pfam.prokka.txt` - Table of symbiont genes possessing eukaryotic protein domains
 * `ss_struct_eff_geneviewer.txt` - Table of symbiont bacterial secretion system structural components and predicted effectors in order of genome coordinate
+
+In `DE_results/`:
 * `dicty*.DEresults.txt` - Four `DESeq2` summary tables for hosts associated with each symbiont species or strain
 * `burk*.DEresults.txt` - Four `DESeq2` summary tables for each symbiont species or strain associated with hosts
+
+In `GO_results/`:
 * `dicty*.*reg.topGO.txt` - Eight `topGO` summary tables for hosts associated with each symbiont species or strain; tables for up- and down-regulated groups of genes are separated
 * `burk*.*reg.bt2.topGO.txt` - Eight `topGO` summary tables for each symbiont species or strain associated with hosts; tables for up- and down-regulated groups of genes are separated
     
