@@ -6,7 +6,7 @@ This repo contains the following files:
 
 In `genome_files/`:
 * `*.fsa` - draft genome assembly for each _Paraburkholderia_ strain
-* `*fixed.gff` - gene annotation files for each _Paraburkholderia_ strain
+* `*.fixed.gff` - gene annotation files for each _Paraburkholderia_ strain
 
 In `supporting_files/`:
 * `b*.gene_association.img_topgo.txt` - Processed GO annotation files, one for each _Paraburkholderia_ symbiont genome
