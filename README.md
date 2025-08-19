@@ -214,7 +214,7 @@ for FILE in burk_4_bt2_count/b70*nohost.bam; do
 	KEEP="${INFILE%.nohost.bam}"
 	echo "$INFILE","$KEEP";
 	echo "Processing $INFILE"
-	htseq-count -f bam -s reverse -a 20 -t gene -i ID burk_4_bt2_count/"$INFILE" /export/groups/snoh/shared/burk_reference_20230612/pa70.fixed.gff > burk_4_bt2_count/"$KEEP".bt2.count
+	htseq-count -f bam -s reverse -a 20 -t gene -i ID burk_4_bt2_count/"$INFILE" /export/groups/snoh/shared/burk_reference_20230612/ba70.fixed.gff > burk_4_bt2_count/"$KEEP".bt2.count
 done
 ```
 
