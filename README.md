@@ -5,7 +5,7 @@ This repo contains the following files:
 * `symbiont_de_analysis_plus.R` - `R` code used to run statistical analyses using count files and generate figures
 
 In `genome_files/`:
-* `ba70.fsa` - draft genome assembly for _P. agricolaris_ strain ba70
+* `*.fsa` - draft genome assembly for each _Paraburkholderia_ strain
 * `*fixed.gff` - gene annotation files for each _Paraburkholderia_ strain
 
 In `supporting_files/`:
