@@ -4,6 +4,10 @@ This repo contains the following files:
 * `host_de_analysis_plus.*.R` - `R` code used to run statistical analyses using count files and generate figures
 * `symbiont_de_analysis_plus.R` - `R` code used to run statistical analyses using count files and generate figures
 
+In `genome_files/`:
+* `ba70.fsa` - draft genome assembly for _P. agricolaris_ strain ba70
+* `*fixed.gff` - gene annotation files for each _Paraburkholderia_ strain
+
 In `supporting_files/`:
 * `b*.gene_association.img_topgo.txt` - Processed GO annotation files, one for each _Paraburkholderia_ symbiont genome
 * `b*.secretion.system.prokka.txt` - Table of symbiont genes with predicted function in bacterial secretion systems
