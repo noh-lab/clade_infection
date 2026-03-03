@@ -2,6 +2,7 @@
 This repo contains the following files:
 
 * `host_de_analysis_plus.*.R` - `R` code used to run statistical analyses using count files and generate figures
+* `host_visualize_go.*.R` - `R` code used to visualize GO term analysis
 * `symbiont_de_analysis_plus.R` - `R` code used to run statistical analyses using count files and generate figures
 
 In `genome_files/`:
